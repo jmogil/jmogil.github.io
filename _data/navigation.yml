@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "QLD Crime Trends"
+    url: /qld-crime-trends/
     
   # - title: "CV"
   #   url: /cv-json/
