@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Senior Lecturer in the School of Criminology and Criminal Justice at Griffith University and a registered clinical psychologist. I am also Director of the Social Analytics Lab at the Griffith Criminology Institute.
 
-My research sits at the intersection of mental health, neurodevelopment, and offending across the life course. I draw on large-scale linked administrative data to examine trajectories of mental illness, justice system contact, and victimisation, with a particular focus on youth justice, sexual offending, and neurodevelopmental disorders. This work is informed by clinical and forensic practice, including my time as a Senior Clinician with the Griffith Youth Forensic Service (2011–2019) and as a consultant psychologist in private practice.
+My research sits at the intersection of mental health, neurodevelopment, and offending across the life course. I draw on large-scale linked administrative data to examine trajectories of mental illness, justice system contact, and victimisation, with a particular focus on youth justice, sexual offending, and neurodevelopmental disorders. This work is informed by clinical and forensic practice, including my time as a Senior Clinician with the Griffith Youth Forensic Service and as a consultant psychologist in private practice.
 
 Research interests
 ======
