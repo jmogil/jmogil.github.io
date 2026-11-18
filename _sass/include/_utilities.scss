@@ -193,6 +193,18 @@ body:hover .visually-hidden button {
   margin-right: 0.5em;
 }
 
+/* Serious Crime Harm Lab raven: an image mask, so it takes the text colour like the other icons */
+.icon-lab-raven {
+  display: inline-block;
+  width: 1.25em;
+  height: 1em;
+  margin-right: 0.5em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  -webkit-mask: url("/images/serious-crime-harm-lab.png") no-repeat center / contain;
+  mask: url("/images/serious-crime-harm-lab.png") no-repeat center / contain;
+}
+
 /* social icons*/
 
 .social-icons {
