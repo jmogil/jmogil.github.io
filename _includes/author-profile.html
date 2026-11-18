@@ -33,6 +33,9 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+      {% if author.sal %}
+        <li><a href="{{ author.sal }}"><span class="icon-sal" aria-hidden="true"></span>{{ author.sal_name | default: "Social Analytics Lab" }}</a></li>
+      {% endif %}
       {% if author.lab %}
         <li><a href="{{ author.lab }}"><span class="icon-lab-raven" aria-hidden="true"></span>{{ author.lab_name | default: "Lab" }}</a></li>
       {% endif %}

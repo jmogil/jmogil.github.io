@@ -31,6 +31,8 @@ author:
   employer         : "Griffith University"
   uri              : "https://experts.griffith.edu.au/8499-james-ogilvie"
   email            : "j.ogilvie@griffith.edu.au" 
+  sal              : "https://www.griffith.edu.au/engage/partnerships/data-trust/lab/social-analytics-lab"
+  sal_name         : "Social Analytics Lab"
   lab              : "https://seriouscrimeharmlab.com/"
   lab_name         : "Serious Crime Harm Lab"
 
